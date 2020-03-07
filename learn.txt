@@ -1,0 +1,19 @@
+Git - программа и парадигма
+Github - хранилище репозиториев
+
+
+Репозиторий
+Коммит
+Ветка
+
+master
+
+html css javascript (vue)
+
+<input />
+
+mkdir
+cd
+touch
+ls
+
