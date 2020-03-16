@@ -1,0 +1,107 @@
+body{
+	margin: 0 ; padding: 0;
+	background: url(../images/background.jpg) no-repeat center;
+	background-size: cover;
+	min-height: 200vh;
+	font-family: verdana;
+	color:#0099FF;
+	}
+header{
+	text-shadow: 1px 1px 2px #BBB9B9;
+	}
+.topgradient{ 
+	height: 10vh;
+	background: linear-gradient(to bottom, #89DEFA,#ffffff);
+	}
+.topmenu{
+	display: flex;
+	justify-content: space-around;
+		}	
+.logo{
+	height:250px; width:40%;
+	background: url(../images/logo.jpg) no-repeat center;
+	background-size: contain;
+	border: 1px solid #00a8e1;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	}
+.contacts{
+	background: url(../images/contacts_background_img.jpg) no-repeat center;
+	background-size: contain;
+	height: 156px;
+		}		
+.rezhim{
+	text-shadow: 1px 1px 2px #A8A0A0;
+}		
+.border{
+	border-bottom: 2px solid #E1A1FA;
+	margin:5px 20px;
+		}		
+.verhcont{
+		margin: 20px 0;
+		display: flex;
+		justify-content: space-around;
+		flex-direction: row;
+		}
+.KPB	{
+		height: 150px; width: 150px;
+		background: url(../images/KPB.png) no-repeat center;
+		background-size: contain;
+		}
+.podushki{
+		height: 150px; width: 150px;
+		background: url(../images/podushki.jpg) no-repeat center;
+		background-size: contain;
+		}
+.odeyala{
+		height: 150px; width: 150px;
+		background: url(../images/odeyala.jpg) no-repeat center;
+		background-size: contain;
+		}									
+.nizcont{
+		margin: 20px 0;
+		display: flex;
+		justify-content: space-around;
+		flex-direction: row;
+		}
+.postprin{
+		height: 150px; width: 150px;
+		background: url(../images/postprin.jpg) no-repeat center;
+		background-size: contain;
+		}	
+.detspostprin{
+		height: 150px; width: 150px;
+		background: url(../images/detspostprin.png) no-repeat center;
+		background-size: contain;
+			}
+.poshiv{
+		height: 150px; width: 150px;
+		background: url(../images/poshiv.jpg) no-repeat center;
+		background-size: contain;
+		}	
+.location{
+		display: inline-flex;
+		justify-content: space-around;
+		flex-direction: row;
+		}
+.adress{
+		margin: 0 20px;
+		flex-shrink: 5;
+		}	
+.liniya{
+		background: url(../images/liniya.jpg) no-repeat center;
+		background-size: contain;
+		width: 400px; height: 250px;
+		margin: 0 20px 0 0;
+		}
+.oblaka{
+		background: url(../images/oblaka.jpg)no-repeat center;
+		background-size: contain;
+		width: 400px; height: 250px;
+		
+		}
+.bottomgradient{
+		height: 10vh;
+		background: linear-gradient(to top, #CFE5FC,#ffffff)
+		}															
+
+
